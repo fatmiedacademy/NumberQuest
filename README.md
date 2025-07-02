@@ -101,7 +101,7 @@ Feel free to use, modify, and distribute this template for educational or commer
 Pull requests and contributions are welcome. If you have question packs, UI enhancements, or performance fixes, feel free to fork and submit a PR.
 
 🙌 Credits
-Built by [Your Name or Organization]
+Built by FatmiedAcademy
 Using Unity 2D Engine & C#
 Created to help learners improve their arithmetic skills through play.
 
